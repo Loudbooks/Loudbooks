@@ -2,7 +2,15 @@
   
   # Hello world! 👋
 
-  ### 📖 Loudbook's Profile 📖
+  ### About Me
+  
+  Hi! I'm Loudbook. My preferred language is Java, and I started learning Java at the beginning of 2021. I mainly code Spigot plugins and Discord bots. Reach out to me if you're interested in my work! 
+  
+  Email: loudbooked@gmail.com
+  Discord: Loudbook#7111
+  
+  
+  ### Profit Statistics
 
 ![Loudbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loudbooks&show_icons=true&theme=radical)
   
@@ -14,4 +22,7 @@
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&theme=radical)](https://github.com/Loudbooks/github-readme-stats)
 
+  ### About Me
+  
+  
 </div>
