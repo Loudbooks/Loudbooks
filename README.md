@@ -8,6 +8,8 @@
   
   ### Languages
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction)](https://github.com/Loudbooks/github-readme-stats)
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
+
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&theme=radical)](https://github.com/Loudbooks/github-readme-stats)
 
 </div>
