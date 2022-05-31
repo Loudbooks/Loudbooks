@@ -27,7 +27,7 @@
   
   [**TwistMC:**](https://store.twistmc.net)
   
-  I am a twist developer at TwistMC! @TwistMC-Development
+  I am a twist developer at TwistMC!
   <br>
   <br>
   <br>
