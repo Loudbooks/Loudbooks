@@ -22,4 +22,10 @@
   
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&theme=radical)](https://github.com/Loudbooks/github-readme-stats)
+  
+  ### Current Projects
+  
+  **TwistMC:** I am one of the twist developers at TwistMC! @TwistMC
+  **Septicraft:** A side project for a custom RPG.
+  **BoreasBot:** A Discord - Minecraft bridge (and vice verca) for the Hypixel guild, Boreas.
 </div>
