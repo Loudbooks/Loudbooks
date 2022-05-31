@@ -25,13 +25,27 @@
   
   ### Current Projects
   
-  **TwistMC:** I am one of the twist developers at TwistMC!
+  **TwistMC:** 
   
-  **Septicraft:** A side project for a custom RPG.
+  I am one of the twist developers at TwistMC!
   <br>
   <br>
-  **BoreasBot:** A Discord - Minecraft bridge (and vice verca) for the Hypixel guild, Boreas.
+  <br>
   
+  **Septicraft:** 
+  
+  This is a fully custom MMORPG, mostly a side project.
+  <br>
+  <br>
+  <br>
+  
+  **BoreasBot:** 
+  
+  A Discord - Minecraft bridge (and vice verca) for the Hypixel guild, Boreas.
+  <br>
+  <br>
+  <br>
+  <br>
   
   All of the code for the above projects are on my GitHub!
 </div>
