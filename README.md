@@ -31,21 +31,18 @@
   <br>
   <br>
   <br>
-  
   **Septicraft:** 
   
   This is a fully custom MMORPG, mostly a side project.
   <br>
   <br>
   <br>
-  
   **BoreasBot:** 
   
-  A Discord ⇆ Minecraft bridge for the Hypixel guild, Boreas.
+  A Discord ⇆ Minecraft chat bridge for the Hypixel guild, Boreas.
   <br>
   <br>
   <br>
   <br>
-  
   All of the code for the above projects are on my GitHub!
 </div>
