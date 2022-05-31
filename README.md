@@ -25,19 +25,19 @@
   
   ### Current Projects
   
-  **TwistMC:** 
+  [**TwistMC:**](https://store.twistmc.net)
   
-  I am one of the twist developers at TwistMC!
+  I am a twist developer at TwistMC! @TwistMC-Development
   <br>
   <br>
   <br>
-  **Septicraft:** 
+  [**Septicraft:**](https://github.com/Loudbooks/Septicraft-Backend)
   
-  This is a fully custom MMORPG, mostly a side project.
+  This is a fully custom Minecraft MMORPG, mostly a side project.
   <br>
   <br>
   <br>
-  **BoreasBot:** 
+  [**BoreasBot:**](https://github.com/Loudbooks/BoreasBot)
   
   A Discord ⇆ Minecraft chat bridge for the Hypixel guild, Boreas.
   <br>
