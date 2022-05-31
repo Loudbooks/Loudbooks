@@ -41,7 +41,7 @@
   
   **BoreasBot:** 
   
-  A Discord ↔️ Minecraft bridge for the Hypixel guild, Boreas.
+  A Discord ⇆ Minecraft bridge for the Hypixel guild, Boreas.
   <br>
   <br>
   <br>
