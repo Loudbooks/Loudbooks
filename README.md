@@ -31,7 +31,7 @@
   <br>
   <br>
   <br>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&Septicraft-Backend)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=Septicraft-Backend)](https://github.com/anuraghazra/github-readme-stats)
 
   <br>
   <br>
