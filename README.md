@@ -31,9 +31,8 @@
   <br>
   <br>
   <br>
-  [**Septicraft:**](https://github.com/Loudbooks/Septicraft-Backend)
-  
-  This is a fully custom Minecraft MMORPG, mostly a side project.
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Loudbooks/septicraft-backend)
+
   <br>
   <br>
   <br>
