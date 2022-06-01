@@ -31,14 +31,11 @@
   <br>
   <br>
   <br>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=Septicraft-Backend&bg_color=DEG,f05a41,f54f9a&hide_border=true&title_color=000000&icon_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <a href="https://github.com/Loudbooks/Septicraft-Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=Septicraft-Backend&bg_color=DEG,f05a41,f54f9a&hide_border=true&title_color=000000&icon_color=000000" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Loudbooks/BoreasBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=BoreasBot&bg_color=DEG,f05a41,f54f9a&hide_border=true&title_color=000000&icon_color=000000" />
 </a>
   
   <br>
