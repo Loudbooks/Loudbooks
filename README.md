@@ -25,7 +25,7 @@
   
   
   ### Main Project:
-  ### [**TwistMC**](https://disc.gg/twistmc)
+  <font size="4"> [**TwistMC**](https://disc.gg/twistmc) </font>
   
   <br>
   <br>
