@@ -26,8 +26,8 @@
   
   ### Main Project:
   ## [**TwistMC**](https://store.twistmc.net)
-  
-  This is what I spend most of my time on! https://disc.gg/twistmc
+  This is what I spend most of my time on! 
+  https://disc.gg/twistmc
   
   ### Side Projects
   <a href="https://github.com/Loudbooks/Septicraft-Backend">
