@@ -13,7 +13,7 @@
   
   ### Profit Statistics
 
-![Loudbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loudbooks&show_icons=true&theme=gradient)
+![Loudbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loudbooks&show_icons=true&bg_color=DEG,f05a41,f54f9a&theme=radient)
   
   ### Languages
   
@@ -21,7 +21,7 @@
 
   
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&bg_color=DEG,f05a41,f54f9a)](https://github.com/Loudbooks/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&bg_color=DEG,f05a41,f54f9a&theme=radient)](https://github.com/Loudbooks/github-readme-stats)
   
   ### Current Projects
   
