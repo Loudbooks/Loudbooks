@@ -13,7 +13,7 @@
   
   ### Profit Statistics
 
-![Loudbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loudbooks&show_icons=true&bg_color=DEG,f05a41,f54f9a&hide_border=true&title_color=000000&icon_color=000000)
+![Loudbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loudbooks&show_icons=true&bg_color=DEG,f05a41,f54f9a&hide_border=true&title_color=000000&icon_color=000000&count_private=true)
   
   ### Languages
   
@@ -26,27 +26,12 @@
   ### Current Projects
   
   [**TwistMC:**](https://store.twistmc.net)
-  
-  I am a twist developer at TwistMC!
-  <br>
-  <br>
-  <br>
+    
+  The below projects are things I work on in my free time.
   <a href="https://github.com/Loudbooks/Septicraft-Backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=Septicraft-Backend&bg_color=DEG,f54f9a,f05a41&hide_border=true&title_color=000000&icon_color=000000" />
 </a>
 <a href="https://github.com/Loudbooks/BoreasBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=BoreasBot&bg_color=DEG,f05a41,f54f9a&hide_border=true&title_color=000000&icon_color=000000" />
 </a>
-  
-  <br>
-  <br>
-  <br>
-  [**BoreasBot:**](https://github.com/Loudbooks/BoreasBot)
-  
-  A Discord ⇆ Minecraft chat bridge for the Hypixel guild, Boreas.
-  <br>
-  <br>
-  <br>
-  <br>
-  All of the code for the above projects are on my GitHub!
 </div>
