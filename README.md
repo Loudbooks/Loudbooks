@@ -23,13 +23,13 @@
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&bg_color=DEG,f05a41,f54f9a&hide_border=true&title_color=000000&icon_color=000000&layout=compact)](https://github.com/Loudbooks/github-readme-stats)
   
-  ### Current Projects
   
-  #### [**TwistMC**](https://store.twistmc.net)
-    
-  The below projects are things I work on in my free time.
+  ### Main Project:
+  ## [**TwistMC**](https://store.twistmc.net)
   
+  This is what I spend most of my time on! https://disc.gg/twistmc
   
+  ### Side Projects
   <a href="https://github.com/Loudbooks/Septicraft-Backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=Septicraft-Backend&bg_color=DEG,f54f9a,f05a41&hide_border=true&title_color=000000&icon_color=000000" />
 </a>
