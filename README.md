@@ -21,7 +21,7 @@
 
   
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&bg_color=DEG,f05a41,f54f9a&hide_border=true&title_color=000000&icon_color=000000)](https://github.com/Loudbooks/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&bg_color=DEG,f05a41,f54f9a&hide_border=true&title_color=000000&icon_color=000000&layout=compact)](https://github.com/Loudbooks/github-readme-stats)
   
   ### Current Projects
   
