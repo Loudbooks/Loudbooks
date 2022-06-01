@@ -25,7 +25,7 @@
   
   
   ### Main Project:
-  ## [**TwistMC**](https://disc.gg/twistmc)
+  ### [**TwistMC**](https://disc.gg/twistmc)
   
   
   ### Side Projects
