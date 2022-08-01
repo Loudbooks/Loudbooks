@@ -1,6 +1,7 @@
 <div align="center">
   
-  # Hello world! 👋
+ ![imageedit_2_4187357788](https://user-images.githubusercontent.com/51384418/182053087-abebea47-67f9-40be-a8a0-8d7bfb5db6c0.png)
+
 
   ### About Me
   
@@ -13,7 +14,7 @@
   
   ### Profit Statistics
 
-![Loudbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loudbooks&show_icons=true&theme=tokyonight&hide_border=true&title_color=000000&icon_color=000000&count_private=true)
+![Loudbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loudbooks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
   ### Languages
   
@@ -23,8 +24,10 @@
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/Loudbooks/github-readme-stats)
   
+  <br>
+  <br>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=dax)](https://github.com/Loudbooks/Dax&theme=tokyonight)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=dax&theme=tokyonight&hide_border=true)](https://github.com/Loudbooks/Dax)
 
   <br>
   <br>
