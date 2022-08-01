@@ -13,7 +13,7 @@
   
   ### Profit Statistics
 
-![Loudbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loudbooks&show_icons=true&bg_color=DEG,f05a41,f54f9a&hide_border=true&title_color=000000&icon_color=000000&count_private=true)
+![Loudbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loudbooks&show_icons=true&theme=tokyonight&hide_border=true&title_color=000000&icon_color=000000&count_private=true)
   
   ### Languages
   
