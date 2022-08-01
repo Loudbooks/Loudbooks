@@ -24,8 +24,8 @@
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/Loudbooks/github-readme-stats)
   
   
-  ### Main Project:
-  ## [**TwistMC**](https://disc.gg/twistmc) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=dax)](https://github.com/Loudbooks/Dax&theme=tokyonight)
+
   <br>
   <br>
   
