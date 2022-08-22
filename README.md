@@ -18,8 +18,10 @@
   
   ### Languages
   
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
-
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">  
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="100">
   
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/Loudbooks/github-readme-stats)
