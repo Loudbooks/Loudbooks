@@ -5,16 +5,12 @@
 
   ### About Me
   
-  Hi! I'm Loudbook. My preferred language is Java, and I started learning Java at the beginning of 2021. I mainly code Spigot plugins and Discord bots. Reach out to me if you're interested in my work! 
+  Hi! I'm Loudbook. My preferred language is Java, and I started learning programming at the start of 2021. Since then, I've expanded to many other languages and frameworks. My top three frameworks are Spigot, Minestom, and JDA, and I'm very familiar with MongoDB. Contact me for any inquiries!
   
   Email: loudbooked@gmail.com
   
   Discord: Loudbook#7111
   
-  
-  ### Profit Statistics
-
-![Loudbook's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loudbooks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
   ### Languages
   
@@ -22,16 +18,6 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="100">
-  
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&hide=mcfunction&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/Loudbooks/github-readme-stats)
-  
-  <br>
-  <br>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loudbooks&repo=dax&theme=tokyonight&hide_border=true)](https://github.com/Loudbooks/Dax)
-
-  <br>
-  <br>
+ 
   
 </div>
