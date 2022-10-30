@@ -9,7 +9,7 @@
   
   Email: loudbooked@gmail.com
   
-  Discord: Loudbook#7111
+  Discord: Loudbook#0001
   
   
   ### Languages
