@@ -20,8 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="100">
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="100"><br> 
  
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&langs_count=10&layout=compact&hide=mcfunction)](https://github.com/anuraghazra/github-readme-stats)
 </div>
