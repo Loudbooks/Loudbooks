@@ -9,7 +9,9 @@
   
   Email: loudbooked@gmail.com
   
-  Discord: Loudbook#0001
+  Website: https://loudbook.dev
+
+  Discord: Loudbook#0001  
   
   
   ### Languages
