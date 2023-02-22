@@ -5,7 +5,7 @@
 
   ### About Me
   
-  Hi! I'm Loudbook. My preferred language is Java, and I started learning programming at the start of 2021. Since then, I've expanded to many other languages and frameworks. My top three frameworks are Spigot, Minestom, and JDA, and I'm very familiar with MongoDB. Contact me for any inquiries!
+  Hi! I'm Loudbook. My preferred language is Java, and I started learning programming at the start of 2020. Since then, I've expanded to many other languages and frameworks. My top three frameworks are Spigot, Minestom, and JDA, and I'm very familiar with MongoDB. Contact me for any inquiries!
   
   Email: loudbooked@gmail.com
   
