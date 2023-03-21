@@ -5,13 +5,13 @@
 
   ### About Me
   
-  Hi! I'm Loudbook. My preferred language is Java, and I started learning programming at the start of 2020. Since then, I've expanded to many other languages and frameworks. My top three frameworks are Spigot, Minestom, and JDA, and I'm very familiar with MongoDB. Contact me for any inquiries!
+  Hi! I'm Loudbook. My programming journey started at the start of 2020, and since then I've rapidly expanded to many other languages and frameworks. Contact me for any inquiries!
   
-  Email: loudbooked@gmail.com
+  **Email:** loudbooked@gmail.com
   
-  Website: https://loudbook.dev
+  **Website:** https://loudbook.dev
 
-  Discord: Loudbook#0001  
+  **Discord:** Loudbook#0001  
   
   
   ### Languages
@@ -19,11 +19,13 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">  
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="100"><br> 
- 
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" height="100">    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="100">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" height="100">
   <br>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&langs_count=10&layout=compact&hide=mcfunction)
