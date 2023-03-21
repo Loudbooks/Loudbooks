@@ -28,5 +28,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" height="100">
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&langs_count=10&layout=compact&hide=mcfunction)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&langs_count=15&layout=compact&hide=mcfunction&theme=transparent&hide_border=true)
 </div>
