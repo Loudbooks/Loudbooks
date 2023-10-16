@@ -11,7 +11,7 @@
   
   **Website:** https://loudbook.dev
 
-  **Discord:** Loudbook#0001  
+  **Discord:** @loudbook  
   
   
   ### Languages
