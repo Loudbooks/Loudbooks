@@ -20,6 +20,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="100">  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" height="100">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="100">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" height="100">  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="100">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="100">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="100">
