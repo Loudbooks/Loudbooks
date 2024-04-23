@@ -24,7 +24,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" height="80">    
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&langs_count=5&layout=donut&hide=mcfunction&theme=transparent&hide_border=true&title_color=ffffff&hide_title=true&text_color=ffffff)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loudbooks&langs_count=5&layout=donut&hide=mcfunction&theme=default&hide_border=true&title_color=ffffff&hide_title=true)
   
   ----
   ### Contact
