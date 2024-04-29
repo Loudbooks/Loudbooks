@@ -32,6 +32,6 @@
   
   **Website:** https://loudbook.dev
   
-  **Discord:** @loudbook  
+  **Discord:** [@loudbook](https://discordapp.com/users/664597683511492608)
     
 </div>
