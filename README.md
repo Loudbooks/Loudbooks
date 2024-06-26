@@ -9,12 +9,12 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="80">  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" height="80">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="80">  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" height="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" height="80">  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" height="80">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" height="80">  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="80">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="80">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="80">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" height="80">
   <br> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="80">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" height="80">
