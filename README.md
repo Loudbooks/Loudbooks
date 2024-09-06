@@ -15,9 +15,9 @@
   <br>
   <br>
 
-  **Email:** loudbooked@gmail.com
-  
   **Website:** https://loudbook.dev
-  
+
+  **Email:** contact@loudbook.dev
+    
   **Discord:** [@loudbook](https://discordapp.com/users/664597683511492608)
 </div>
