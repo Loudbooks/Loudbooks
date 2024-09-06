@@ -3,6 +3,7 @@
   # Hi. I'm Loudbook.
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="80">  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" height="80">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="80">  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" height="80">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="80">  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" height="80">  
