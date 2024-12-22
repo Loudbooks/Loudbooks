@@ -15,7 +15,7 @@
   <br>
   <br>
 
-  **Website:** https://loudbook.dev
+  **Website:** https://loudbook.dev/
 
   **Email:** contact@loudbook.dev
     
