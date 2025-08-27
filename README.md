@@ -1,6 +1,6 @@
 <div align="center">
     
-  # Hi. I'm Loudbook.
+  # Hi. I'm Sam.
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="80"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" height="80">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="80">  
@@ -15,9 +15,7 @@
   <br>
   <br>
 
-  **Website:** https://loudbook.dev/
+  **Website:** https://thesamgordon.com/
 
-  **Email:** contact@loudbook.dev
-    
-  **Discord:** [@loudbook](https://discordapp.com/users/664597683511492608)
+  **Email:** contact@thesamgordon.com    
 </div>
